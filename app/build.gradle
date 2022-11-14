@@ -35,5 +35,5 @@ test {
 
 application {
     // Define the main class for the application.
-    mainClass = 'bbtriangle.App'
+    mainClass = 'bbtriangle.Triangle'
 }
